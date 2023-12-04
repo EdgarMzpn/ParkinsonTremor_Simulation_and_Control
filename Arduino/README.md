@@ -1,8 +1,0 @@
-Libraries
-
-Adafruit_ADXL345
-Adafruit_BusIO
-Adafruit_TensorFlow_Lite
-Adafruit_Unified_Sensor
-ESP32Servo
-TensorFlowLite_ESP32
